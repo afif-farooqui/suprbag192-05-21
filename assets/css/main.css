@@ -31,7 +31,7 @@ div.c{
 
 #section-3{
     max-height: 100%;
-    margin-bottom: 0px;
+    margin-bottom: -100px;
 }
 
 .display-43{
@@ -691,7 +691,7 @@ Our Brand Section
 
 .line {
     height:2px;
-    background-color: darkgray;
+    background-color: rgb(235, 226, 226);
     width:100%;
 }
 
@@ -711,7 +711,7 @@ Our Brand Section
 .container h1{
     text-align:center;
     margin-top: 0px;
-    margin-bottom:100px;
+    margin-bottom:20px;
     margin-top: 0px;
     margin-right: -250px;
     font-size: 23px;
@@ -864,7 +864,7 @@ ul {
 .site-heading {
   margin-bottom: 60px;
   overflow: hidden;
-  margin-top: -5px;
+  margin-top: 70px;
 }
 
 
@@ -1037,4 +1037,12 @@ ul {
     height: 200px;
     margin-left: -50px;
   }
+}
+@media (max-width: 560px){
+.smalltext{
+
+    font-weight: 200;
+    font-size: 28px;
+    margin-left: 80px;
+}
 }
