@@ -88,11 +88,13 @@ content: '';
     position: relative;
 }
 .profile h2{
+    font-family: 'Barlow';
     font-size: 22px;
     font-weight: bold;
     margin-top: 15px;
 }
 .profile h3{
+    font-family: 'Barlow';
     font-size: 15px;
     font-weight: bold;
     margin-top: 15px;
@@ -1355,8 +1357,9 @@ Section 8
 }
 .display-48 p{
   margin-top: 33px;
-    font-size: 18px;
-    font-weight: 600;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Barlow';
     
 }
 

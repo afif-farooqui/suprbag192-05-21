@@ -842,12 +842,15 @@ ul {
   color: #ffaf5a;
 }
 .site-heading p {
+        font-family: 'Barlow';
     margin-top: 0;
     font-size: 29px;
     margin-bottom: 0rem;
 }
 
 .site-heading h4 {
+        font-family: 'Barlow';
+    font-weight: 600;
   display: inline-block;
   padding-bottom: 20px;
   position: relative;
